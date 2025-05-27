@@ -1,0 +1,44 @@
+name: deperlas_futsal
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  pdf: ^3.10.0
+  printing: ^5.10.1
+  http: ^0.13.6
+  intl: ^0.18.1
+  shared_preferences: ^2.2.2
+  cupertino_icons: ^1.0.8
+  flutter_native_splash: ^2.4.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.13.1 # << Tambahan untuk ikon
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/aafi.png
+    - assets/mahardika.png
+    - assets/icon_info_absen.png
+
+flutter_native_splash:
+  color: "#1A237E"
+  image: assets/logo.png
+  android: true
+  ios: true
+  web: false
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/logo_app.png"
