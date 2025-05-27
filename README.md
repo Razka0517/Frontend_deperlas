@@ -1,6 +1,6 @@
 # deperlas_futsal
 
-A new Flutter project.
+Ini merupakan frontend berbasis mobile untuk aplikasi Deperlas
 
 ## Getting Started
 
