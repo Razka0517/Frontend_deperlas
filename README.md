@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # deperlas_futsal
 
 Ini merupakan frontend berbasis mobile untuk aplikasi Deperlas
@@ -18,4 +17,3 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # Frontend_deperlas
 Ini adalah frontend/mobile dari aplikasi deperlas yang sudah dintegrasikan API
->>>>>>> 69b82090c3234a4158dca87ade562a5b3f543d0d
