@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # deperlas_futsal
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Frontend_deperlas
+Ini adalah frontend/mobile dari aplikasi deperlas yang sudah dintegrasikan API
+>>>>>>> 69b82090c3234a4158dca87ade562a5b3f543d0d

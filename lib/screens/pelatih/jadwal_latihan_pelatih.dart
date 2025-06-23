@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:deperlas_futsal/models/jadwal_model.dart';
 import 'package:deperlas_futsal/services/jadwal_service.dart';
-import 'rekap_absen.dart'; // Pastikan kamu punya screen ini
+import 'rekap_absen.dart';
 import 'pelatih_dashboard.dart';
 import 'dart:async';
 import 'package:deperlas_futsal/models/user_model.dart';
@@ -28,7 +28,7 @@ class _JadwalLatihanPelatihScreenState
   @override
   void initState() {
     super.initState();
-    _loadJadwal('REG'); // Ganti dengan tipe_jadwal yang diinginkan
+    _loadJadwal('REG');
     _startPeriodicCheck();
   }
 

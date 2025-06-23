@@ -6,7 +6,7 @@ import '../login_screen.dart';
 import 'package:deperlas_futsal/models/user_model.dart'; // Menggunakan model User
 
 class PemainDashboard extends StatelessWidget {
-  final User user; // Menggunakan model User alih-alih hanya username
+  final User user;
 
   const PemainDashboard({Key? key, required this.user}) : super(key: key);
 

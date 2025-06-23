@@ -63,11 +63,7 @@ class _SplashScreenState extends State<SplashScreen>
       body: Center(
         child: FadeTransition(
           opacity: _fadeAnimation,
-          child: Image.asset(
-            'assets/logo.png', // Pastikan logo ini ada di folder assets
-            width: 160,
-            height: 160,
-          ),
+          child: Image.asset('assets/logo.png', width: 160, height: 160),
         ),
       ),
     );

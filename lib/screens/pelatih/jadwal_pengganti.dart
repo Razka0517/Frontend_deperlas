@@ -28,7 +28,7 @@ class _JadwalLatihanPelatihScreenState
   @override
   void initState() {
     super.initState();
-    _loadJadwal('PNG'); // Ganti dengan tipe_jadwal yang diinginkan
+    _loadJadwal('PNG');
     _startPeriodicCheck();
   }
 
@@ -162,7 +162,7 @@ class _JadwalLatihanPelatihScreenState
           },
         ),
         title: const Text(
-          'Jadwal Latihan',
+          'Jadwal Pengganti',
           style: TextStyle(color: Colors.black),
         ),
         backgroundColor: Colors.white,

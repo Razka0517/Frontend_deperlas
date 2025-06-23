@@ -74,7 +74,7 @@ class _JadwalLatihanScreenState extends State<JadwalPenggantiScreen> {
           },
         ),
         title: const Text(
-          'Jadwal Latihan',
+          'Jadwal Pengganti',
           style: TextStyle(color: Colors.black),
         ),
         backgroundColor: Colors.white,
